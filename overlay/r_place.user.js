@@ -13,7 +13,7 @@
 const images = [
   /* [x_location, y_location, scale, image_url] */
   [0, 429, 1, "https://hicham-belhseine.github.io/rplace-map/images/morocco_place.png"],
-  [1603, 800, 1, "https://raw.githubusercontent.com/YounessFkhach/rplace-map/main/images/morocco_map.png"]
+  [1603, 799, 1, "https://raw.githubusercontent.com/YounessFkhach/rplace-map/main/images/morocco_map.png"]
 ]
 
 
