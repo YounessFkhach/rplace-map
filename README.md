@@ -1,2 +1,2 @@
-# rplace
+# rplace-map
 Morocco rPlace
